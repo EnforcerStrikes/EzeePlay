@@ -1,2 +1,2 @@
 # EzeePlay
-An application that can 
+An application that allows you to manage multiple bookings for an sports complex 
